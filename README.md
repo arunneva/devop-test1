@@ -1,2 +1,2 @@
 # devop-test1
-my first practical 
+step-1 : clone the project 
